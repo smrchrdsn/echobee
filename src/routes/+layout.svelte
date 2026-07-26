@@ -19,8 +19,6 @@
 	}
 </script>
 
-export const prerender = true;
-
 <svelte:head>
 	<link rel="icon" href={favicon} />
 </svelte:head>
